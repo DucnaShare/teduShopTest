@@ -213,6 +213,7 @@
     <Content Include="app\components\products\productListView.html" />
     <Content Include="app\shared\modules\tedushop.common.js" />
     <Content Include="app\shared\view\baseView.html" />
+    <Content Include="App_Data\db.sql" />
     <Content Include="Assets\admin\css\AdminLTE.css" />
     <Content Include="Assets\admin\css\AdminLTE.min.css" />
     <Content Include="Assets\admin\css\skins\skin-black-light.css" />
@@ -578,7 +579,6 @@
     <Folder Include="app\shared\footer\" />
     <Folder Include="app\shared\navigation\" />
     <Folder Include="app\shared\services\" />
-    <Folder Include="App_Data\" />
     <Folder Include="Assets\client\" />
     <Folder Include="Infrastructure\" />
     <Folder Include="Mapping\" />
@@ -722,6 +722,7 @@
     <Content Include="Assets\admin\libs\fastclick\LICENSE" />
     <Content Include="Assets\admin\libs\fastclick\package.json" />
     <Content Include="Assets\admin\libs\fastclick\README.md" />
+    <Content Include="App_Data\AdminLTE-2.3.0-master.zip" />
     <None Include="packages.config" />
     <Content Include="Views\Admin\Index.cshtml" />
   </ItemGroup>
